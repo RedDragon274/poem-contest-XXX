@@ -7,7 +7,11 @@
 
 This is a sandbox vault in which you can test various functionality of Obsidian. 
 
+> [!Warning]
 > 
+> ``` c++
+> МЕРДЖ РЕКВЕСТ ААААААААААААА
+> ```
 > Your changes will not be saved, so please don't take actual notes in this vault.
 
 > Beta vault - contributions are welcome!
