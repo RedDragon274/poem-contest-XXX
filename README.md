@@ -1,18 +1,13 @@
 # poem-contest-XXX
-- first:
-- second:
-- third:
 
-## What is this place?
+Сегодня я в лицее
 
-This is a sandbox vault in which you can test various functionality of Obsidian. 
+И гит преподаю
 
-> [!Warning]
-> 
-> ``` c++
-> МЕРДЖ РЕКВЕСТ ААААААААААААА
-> ```
-> 
+Оделся поскромнее
+
+И рифмы не гуглю
+ 
 
 
 
